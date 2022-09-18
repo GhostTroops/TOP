@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.repository == 'hktalent/TOP'
     steps:
-      - uses: actions/checkout@main
+      - uses: actions/checkout@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: false
@@ -32,7 +32,7 @@ jobs:
           git add .new-additions -f
           git commit --allow-empty -m "Auto update md PoCs lists [$(date)] :robot:" -a
       - name: Push changes
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
