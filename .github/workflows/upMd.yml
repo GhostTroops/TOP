@@ -1,0 +1,38 @@
+name: 🥳 New Poc List
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  templates:
+    runs-on: ubuntu-latest
+    if: github.repository == 'hktalent/TOP'
+    steps:
+      - uses: actions/checkout@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Install Dependences
+        run: sudo apt install -yy python3
+
+      - name: Generate new template list
+        id: new-additions
+        run: |
+          git pull
+          chmod +x .run.sh
+          ./.run.sh
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .new-additions -f
+          git commit --allow-empty -m "Auto update md PoCs lists [$(date)] :robot:" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
