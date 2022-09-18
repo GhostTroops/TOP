@@ -29,6 +29,7 @@ for i in range(0,10):
                     szDes = ""
                 log("|" +"|".join([str(x["stargazers_count"]),x["name"],x["html_url"],szDes])+"|")
             except Exception as e:
+                print(e)
                 pass
                 # print(x)
             # break
