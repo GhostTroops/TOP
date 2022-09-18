@@ -25,6 +25,7 @@ jobs:
           git pull
           chmod +x .run.sh
           ./.run.sh
+          ls -lah
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
