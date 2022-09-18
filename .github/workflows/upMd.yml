@@ -19,13 +19,15 @@ jobs:
       - name: Install Dependences
         run: sudo apt install -yy python3
 
-      - name: Generate new template list
+      - name: Generate new PoCs Info list
         id: new-additions
         run: |
           git pull
           chmod +x .run.sh
           ./.run.sh
           ls -lah
+          cat Top_Codqql1.md
+          cat hecdql.md Top_Codqql1.md ed.md >Top_Codeql.md
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
