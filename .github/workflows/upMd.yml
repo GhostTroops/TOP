@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+  schedule:
+    #  every day at 5:30 
+      - cron:  '30 5 * * *'
+  
   workflow_dispatch:
 
 jobs:
