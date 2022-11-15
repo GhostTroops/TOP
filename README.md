@@ -24,7 +24,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |523|OpenSSL-2022|https://github.com/NCSC-NL/OpenSSL-2022|Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3|
 |508|CVE-2022-23222|https://github.com/tr3ee/CVE-2022-23222|CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation|
 |487|CVE-2022-0995|https://github.com/Bonfee/CVE-2022-0995|CVE-2022-0995 exploit|
-|434|CVE-2022-21882|https://github.com/KaLendsi/CVE-2022-21882|win32k LPE |
+|435|CVE-2022-21882|https://github.com/KaLendsi/CVE-2022-21882|win32k LPE |
 |408|CVE-2022-25636|https://github.com/Bonfee/CVE-2022-25636|CVE-2022-25636|
 |399|CVE-2022-27254|https://github.com/nonamecoder/CVE-2022-27254|PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254)|
 |370|CVE-2022-2588|https://github.com/Markakd/CVE-2022-2588|exploit for CVE-2022-2588|
@@ -33,11 +33,11 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |342|CVE-2022-0185|https://github.com/Crusaders-of-Rust/CVE-2022-0185|CVE-2022-0185|
 |341|CVE-2022-0847-DirtyPipe-Exploits|https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits|A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.|
 |322|CVE-2022-29464|https://github.com/hakivvi/CVE-2022-29464|WSO2 RCE (CVE-2022-29464) exploit and writeup.|
-|283|CVE-2022-40684|https://github.com/horizon3ai/CVE-2022-40684|A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager|
+|284|CVE-2022-40684|https://github.com/horizon3ai/CVE-2022-40684|A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager|
 |283|CVE-2022-21971|https://github.com/0vercl0k/CVE-2022-21971|PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability"|
 |281|VMware-CVE-2022-22954|https://github.com/sherlocksecurity/VMware-CVE-2022-22954|POC for VMWARE CVE-2022-22954|
 |278|CVE-2022-39197|https://github.com/its-arun/CVE-2022-39197|CobaltStrike <= 4.7.1 RCE|
-|277|CVE-2022-33679|https://github.com/Bdenneu/CVE-2022-33679|One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html|
+|278|CVE-2022-33679|https://github.com/Bdenneu/CVE-2022-33679|One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html|
 |271|Spring4Shell-POC|https://github.com/reznok/Spring4Shell-POC|Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit|
 |237|CVE-2022-20699|https://github.com/Audiobahn/CVE-2022-20699|Cisco Anyconnect VPN unauth RCE (rwx stack)|
 |228|CVE-2022-1388|https://github.com/horizon3ai/CVE-2022-1388|POC for CVE-2022-1388|
@@ -64,7 +64,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |842|CVE-2021-3156|https://github.com/blasty/CVE-2021-3156||
 |837|CVE-2021-44228-Scanner|https://github.com/logpresso/CVE-2021-44228-Scanner|Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228|
 |818|CVE-2021-31166|https://github.com/0vercl0k/CVE-2021-31166|Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.|
-|711|CVE-2021-40444|https://github.com/klezVirus/CVE-2021-40444|CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit|
+|712|CVE-2021-40444|https://github.com/klezVirus/CVE-2021-40444|CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit|
 |546|CVE-2021-3156|https://github.com/worawit/CVE-2021-3156|Sudo Baron Samedit Exploit|
 |467|noPac|https://github.com/Ridter/noPac|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
 |431|CVE-2021-3156|https://github.com/stong/CVE-2021-3156|PoC for CVE-2021-3156 (sudo heap overflow)|
@@ -78,7 +78,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |287|CVE-2021-26084_Confluence|https://github.com/h3v0x/CVE-2021-26084_Confluence|Confluence Server Webwork OGNL injection|
 |226|laravel-exploits|https://github.com/ambionics/laravel-exploits|Exploit for CVE-2021-3129|
 |208|CVE-2021-22205|https://github.com/Al1ex/CVE-2021-22205|CVE-2021-22205& GitLab CE/EE RCE|
-|206|CVE-2021-41773|https://github.com/blasty/CVE-2021-41773|CVE-2021-41773 playground|
+|205|CVE-2021-41773|https://github.com/blasty/CVE-2021-41773|CVE-2021-41773 playground|
 |148|ProxyVulns|https://github.com/hosch3n/ProxyVulns|[ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains.|
 |138|CVE-2021-41773_CVE-2021-42013|https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013|CVE-2021-41773 CVE-2021-42013漏洞批量检测工具|
 |129|exprolog|https://github.com/herwonowr/exprolog|ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)|
@@ -99,7 +99,6 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |341|chainoffools|https://github.com/kudelskisecurity/chainoffools|A PoC for CVE-2020-0601|
 |329|CVE-2020-0688|https://github.com/zcgonvh/CVE-2020-0688|Exploit and detect tools for CVE-2020-0688|
 |322|CVE-2020-1472|https://github.com/VoidSec/CVE-2020-1472|Exploit Code for CVE-2020-1472 aka Zerologon|
-|310|CVE-2020-0683|https://github.com/padovah4ck/CVE-2020-0683|CVE-2020-0683 - Windows MSI “Installer service” Elevation of Privilege|
 |304|CVE-2020-2551|https://github.com/Y4er/CVE-2020-2551|Weblogic IIOP CVE-2020-2551|
 |302|cve-2020-0688|https://github.com/Ridter/cve-2020-0688|cve-2020-0688|
 |296|CVEAC-2020|https://github.com/thesecretclub/CVEAC-2020|EasyAntiCheat Integrity check bypass by mimicking memory changes|
@@ -109,8 +108,9 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |254|BlueGate|https://github.com/ly4k/BlueGate|PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE|
 |240|CVE-2020-0796-LPE-POC|https://github.com/ZecOps/CVE-2020-0796-LPE-POC|CVE-2020-0796 Local Privilege Escalation POC|
 |228|CVE-2020-1362|https://github.com/Q4n/CVE-2020-1362|writeup of CVE-2020-1362|
-|218|CVE-2020-0674-Exploit|https://github.com/maxpl0it/CVE-2020-0674-Exploit|This is an exploit for CVE-2020-0674 that runs on the x64 version of IE 8, 9, 10, and 11 on Windows 7.|
+|219|CVE-2020-0674-Exploit|https://github.com/maxpl0it/CVE-2020-0674-Exploit|This is an exploit for CVE-2020-0674 that runs on the x64 version of IE 8, 9, 10, and 11 on Windows 7.|
 |200|SAP_RECON|https://github.com/chipik/SAP_RECON|PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability)|
+|195|CVE-2020-0041|https://github.com/bluefrostsecurity/CVE-2020-0041|Exploits for Android Binder bug CVE-2020-0041|
 |157|cve-2020-0688|https://github.com/random-robbie/cve-2020-0688|cve-2020-0688|
 |129|CVE_2020_2546|https://github.com/hktalent/CVE_2020_2546|CVE-2020-2546，CVE-2020-2915 CVE-2020-2801  CVE-2020-2798  CVE-2020-2883 CVE-2020-2884 CVE-2020-2950  WebLogic T3 payload exploit poc python3,|
 |110|CVE-2020-11651-poc|https://github.com/jasperla/CVE-2020-11651-poc|PoC exploit of CVE-2020-11651 and CVE-2020-11652|
@@ -143,7 +143,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |249|CVE-2019-18935|https://github.com/noperator/CVE-2019-18935|RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX.|
 |236|CVE-2019-0841|https://github.com/rogue-kdc/CVE-2019-0841|PoC code for CVE-2019-0841 Privilege Escalation vulnerability|
 |227|CVE-2019-1040|https://github.com/Ridter/CVE-2019-1040|CVE-2019-1040 with Exchange|
-|201|cve-2019-5736-poc|https://github.com/q3k/cve-2019-5736-poc|Unweaponized Proof of Concept for CVE-2019-5736 (Docker escape)|
+|200|cve-2019-5736-poc|https://github.com/q3k/cve-2019-5736-poc|Unweaponized Proof of Concept for CVE-2019-5736 (Docker escape)|
 |184|CVE-2019-11932|https://github.com/awakened1712/CVE-2019-11932|Simple POC for exploiting WhatsApp double-free bug in DDGifSlurp in decoding.c in libpl_droidsonroids_gif|
 |178|CVE-2019-2725|https://github.com/TopScrew/CVE-2019-2725|CVE-2019-2725命令回显+webshell上传+最新绕过|
 |169|CVE-2019-3396_EXP|https://github.com/Yt1g3r/CVE-2019-3396_EXP|CVE-2019-3396 confluence SSTI RCE|
@@ -219,7 +219,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |---|---|---|---|
 |1537|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |906|CVE-2016-5195|https://github.com/timwr/CVE-2016-5195|CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android|
-|677|dirtycow|https://github.com/firefart/dirtycow|Dirty Cow exploit - CVE-2016-5195|
+|678|dirtycow|https://github.com/firefart/dirtycow|Dirty Cow exploit - CVE-2016-5195|
 |484|PoCs|https://github.com/ImageTragick/PoCs|Proof of Concepts for CVE-2016–3714|
 |425|dirtycow-vdso|https://github.com/scumjr/dirtycow-vdso|PoC for Dirty COW (CVE-2016-5195)|
 |383|exploit-CVE-2016-10033|https://github.com/opsxcq/exploit-CVE-2016-10033|PHPMailer < 5.2.18 Remote Code Execution exploit and vulnerable container|
@@ -303,6 +303,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |44|shellshock_scanner|https://github.com/scottjpack/shellshock_scanner|Python Scanner for "ShellShock" (CVE-2014-6271)|
 |43|CVE-2014-4113|https://github.com/sam-b/CVE-2014-4113|Trigger and exploit code for CVE-2014-4113|
 |32|springcss-cve-2014-3625|https://github.com/ilmila/springcss-cve-2014-3625|spring mvc cve-2014-3625|
+|23|CVE-2014-0816|https://github.com/tandasat/CVE-2014-0816|CVE-2014-0816|
 |23|cve-2014-4323|https://github.com/marcograss/cve-2014-4323|cve-2014-4323 poc|
 |20|cve-2014-4322|https://github.com/laginimaineb/cve-2014-4322|CVE-2014-4322 Exploit|
 |20|vaas-cve-2014-6271|https://github.com/hmlio/vaas-cve-2014-6271|Vulnerability as a service: showcasing CVS-2014-6271, a.k.a. Shellshock|
@@ -312,7 +313,6 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |13|vaas-cve-2014-0160|https://github.com/hmlio/vaas-cve-2014-0160|Vulnerability as a service: showcasing CVS-2014-0160, a.k.a. Heartbleed|
 |12|cve-2014-0521|https://github.com/molnarg/cve-2014-0521||
 |6|CVE-2014-0160|https://github.com/0x90/CVE-2014-0160|Heartbleed variants|
-|3|CVE-2014-4113|https://github.com/johnjohnsp1/CVE-2014-4113|PowerShell CVE-2014-4113|
 ## 2013
 |star|name|url|des|
 |---|---|---|---|
