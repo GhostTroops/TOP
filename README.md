@@ -33,7 +33,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |355|CVE-2022-0847-DirtyPipe-Exploits|https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits|A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.|
 |348|CVE-2022-0185|https://github.com/Crusaders-of-Rust/CVE-2022-0185|CVE-2022-0185|
 |324|CVE-2022-29464|https://github.com/hakivvi/CVE-2022-29464|WSO2 RCE (CVE-2022-29464) exploit and writeup.|
-|318|CVE-2022-33679|https://github.com/Bdenneu/CVE-2022-33679|One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html|
+|320|CVE-2022-33679|https://github.com/Bdenneu/CVE-2022-33679|One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html|
 |290|CVE-2022-40684|https://github.com/horizon3ai/CVE-2022-40684|A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager|
 |286|CVE-2022-39197|https://github.com/its-arun/CVE-2022-39197|CobaltStrike <= 4.7.1 RCE|
 |284|CVE-2022-21971|https://github.com/0vercl0k/CVE-2022-21971|PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability"|
@@ -41,11 +41,11 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |273|Spring4Shell-POC|https://github.com/reznok/Spring4Shell-POC|Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit|
 |237|CVE-2022-20699|https://github.com/Audiobahn/CVE-2022-20699|Cisco Anyconnect VPN unauth RCE (rwx stack)|
 |230|CVE-2022-1388|https://github.com/horizon3ai/CVE-2022-1388|POC for CVE-2022-1388|
-|216|CVE-2022-0847|https://github.com/r1is/CVE-2022-0847|CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”|
+|217|CVE-2022-0847|https://github.com/r1is/CVE-2022-0847|CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”|
 |196|Spring-Cloud-Gateway-CVE-2022-22947|https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947|CVE-2022-22947|
 |190|CVE-2022-27666|https://github.com/plummm/CVE-2022-27666|Exploit for CVE-2022-27666|
-|186|CVE-2022-30075|https://github.com/aaronsvk/CVE-2022-30075|Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075)|
 |183|CVE-2022-0778|https://github.com/drago-96/CVE-2022-0778|Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt|
+|180|CVE-2022-21882|https://github.com/L4ys/CVE-2022-21882||
 |115|SpringShell|https://github.com/TheGejr/SpringShell|Spring4Shell - Spring Core RCE - CVE-2022-22965|
 |102|CVE-2022-22963|https://github.com/dinosn/CVE-2022-22963|CVE-2022-22963 PoC |
 |93|zabbix-saml-bypass-exp|https://github.com/jweny/zabbix-saml-bypass-exp|cve-2022-23131 exp|
@@ -75,7 +75,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |334|CVE-2021-1675-LPE|https://github.com/hlldz/CVE-2021-1675-LPE|Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527|
 |324|CVE-2021-3493|https://github.com/briskets/CVE-2021-3493|Ubuntu OverlayFS Local Privesc|
 |295|Grafana-CVE-2021-43798|https://github.com/jas502n/Grafana-CVE-2021-43798|Grafana Unauthorized arbitrary file reading vulnerability|
-|290|CVE-2021-26084_Confluence|https://github.com/h3v0x/CVE-2021-26084_Confluence|Confluence Server Webwork OGNL injection|
+|291|CVE-2021-26084_Confluence|https://github.com/h3v0x/CVE-2021-26084_Confluence|Confluence Server Webwork OGNL injection|
 |228|laravel-exploits|https://github.com/ambionics/laravel-exploits|Exploit for CVE-2021-3129|
 |211|CVE-2021-22205|https://github.com/Al1ex/CVE-2021-22205|CVE-2021-22205& GitLab CE/EE RCE|
 |205|CVE-2021-41773|https://github.com/blasty/CVE-2021-41773|CVE-2021-41773 playground|
@@ -100,6 +100,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |341|chainoffools|https://github.com/kudelskisecurity/chainoffools|A PoC for CVE-2020-0601|
 |330|CVE-2020-0688|https://github.com/zcgonvh/CVE-2020-0688|Exploit and detect tools for CVE-2020-0688|
 |322|CVE-2020-1472|https://github.com/VoidSec/CVE-2020-1472|Exploit Code for CVE-2020-1472 aka Zerologon|
+|313|CVE-2020-0683|https://github.com/padovah4ck/CVE-2020-0683|CVE-2020-0683 - Windows MSI “Installer service” Elevation of Privilege|
 |305|cve-2020-0688|https://github.com/Ridter/cve-2020-0688|cve-2020-0688|
 |305|CVE-2020-2551|https://github.com/Y4er/CVE-2020-2551|Weblogic IIOP CVE-2020-2551|
 |296|CVEAC-2020|https://github.com/thesecretclub/CVEAC-2020|EasyAntiCheat Integrity check bypass by mimicking memory changes|
@@ -109,8 +110,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |254|BlueGate|https://github.com/ly4k/BlueGate|PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE|
 |240|CVE-2020-0796-LPE-POC|https://github.com/ZecOps/CVE-2020-0796-LPE-POC|CVE-2020-0796 Local Privilege Escalation POC|
 |221|CVE-2020-0674-Exploit|https://github.com/maxpl0it/CVE-2020-0674-Exploit|This is an exploit for CVE-2020-0674 that runs on the x64 version of IE 8, 9, 10, and 11 on Windows 7.|
-|200|SAP_RECON|https://github.com/chipik/SAP_RECON|PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability)|
-|196|CVE-2020-0041|https://github.com/bluefrostsecurity/CVE-2020-0041|Exploits for Android Binder bug CVE-2020-0041|
+|201|SAP_RECON|https://github.com/chipik/SAP_RECON|PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability)|
 |157|cve-2020-0688|https://github.com/random-robbie/cve-2020-0688|cve-2020-0688|
 |129|CVE_2020_2546|https://github.com/hktalent/CVE_2020_2546|CVE-2020-2546，CVE-2020-2915 CVE-2020-2801  CVE-2020-2798  CVE-2020-2883 CVE-2020-2884 CVE-2020-2950  WebLogic T3 payload exploit poc python3,|
 |110|CVE-2020-11651-poc|https://github.com/jasperla/CVE-2020-11651-poc|PoC exploit of CVE-2020-11651 and CVE-2020-11652|
@@ -122,7 +122,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |1746|phuip-fpizdam|https://github.com/neex/phuip-fpizdam|Exploit for CVE-2019-11043|
 |1549|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |1120|BlueKeep|https://github.com/Ekultek/BlueKeep|Proof of concept for CVE-2019-0708|
-|874|rdpscan|https://github.com/robertdavidgraham/rdpscan|A quick scanner for the CVE-2019-0708 "BlueKeep" vulnerability.|
+|875|rdpscan|https://github.com/robertdavidgraham/rdpscan|A quick scanner for the CVE-2019-0708 "BlueKeep" vulnerability.|
 |747|esp32_esp8266_attacks|https://github.com/Matheus-Garbelini/esp32_esp8266_attacks|Proof of Concept of ESP32/8266 Wi-Fi vulnerabilties (CVE-2019-12586, CVE-2019-12587, CVE-2019-12588)|
 |603|CVE-2019-11708|https://github.com/0vercl0k/CVE-2019-11708|Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.|
 |599|CVE-2019-5736-PoC|https://github.com/Frichetten/CVE-2019-5736-PoC|PoC for CVE-2019-5736|
