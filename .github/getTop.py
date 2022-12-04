@@ -14,7 +14,7 @@ aA = []
 cmpfun = lambda x:x["stargazers_count"]
 for i in range(0,10):
     log("## " + str(n))
-    r = requests.get('https://api.github.com/search/repositories?o=desc&q=CVE-'+str(n)+'-&s=stars&type=Repositories')
+    r = requests.get('https://api.github.com/search/repositories?o=desc&q=CVE-'+str(n)+'-&s=updated&type=Repositories')
     a = json.loads(r.text)
     if "items" in a:
         a = a["items"]
