@@ -21,7 +21,7 @@ for i in range(0,10):
         xY += ["* [" + str(n) + " year top total " + str(len(a)) + "](#"+ str(n) +")"]
         log("|star|name|url|des|")
         log("|---|---|---|---|")
-        a.sort(key=cmpfun,reverse=True)
+        #a.sort(key=cmpfun,reverse=True)
         aA += a
         # a = x1
         for x in a:
