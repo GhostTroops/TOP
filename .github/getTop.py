@@ -19,8 +19,8 @@ for i in range(0,10):
     if "items" in a:
         a = a["items"]
         xY += ["* [" + str(n) + " year top total " + str(len(a)) + "](#"+ str(n) +")"]
-        log("|star|name|url|des|")
-        log("|---|---|---|---|")
+        log("|star|updated_at|name|url|des|")
+        log("|---|---|---|---|---|")
         #a.sort(key=cmpfun,reverse=True)
         aA += a
         # a = x1
@@ -31,7 +31,7 @@ for i in range(0,10):
                 szDes = x["description"]
                 if None == szDes:
                     szDes = ""
-                log("|" +"|".join([str(x["stargazers_count"]),x["name"],x["html_url"],szDes])+"|")
+                log("|" +"|".join([str(x["stargazers_count"]),x["updated_at"],x["name"],x["html_url"],szDes])+"|")
             except Exception as e:
                 pass
                 # print(x)
@@ -61,14 +61,14 @@ aA = list(set(temp))
 cmpfun = lambda x:x.stargazers_count
 aA.sort(key=cmpfun,reverse=True)
 xY += ["# Top"]
-xY += ["|star|name|url|des|"]
-xY += ["|---|---|---|---|"]
+xY += ["|star|updated_at|name|url|des|"]
+xY += ["|---|---|---|---|---|"]
 for x in aA:
     try:
         szDes = x.description
         if None == szDes:
             szDes = ""
-        xY += ["|" +"|".join([str(x.stargazers_count),x.name,x.html_url,szDes])+"|"]
+        xY += ["|" +"|".join([str(x.stargazers_count),x["updated_at"],x.name,x.html_url,szDes])+"|"]
     except Exception as e:
         pass
 if 0 < len(aA):
