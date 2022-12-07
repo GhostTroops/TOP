@@ -59,7 +59,7 @@ for x in aA:
     temp.append(Info(x["description"],x["stargazers_count"],x["name"],x["html_url"]))
 aA = list(set(temp))
 cmpfun = lambda x:x.stargazers_count
-aA.sort(key=cmpfun,reverse=True)
+# aA.sort(key=cmpfun,reverse=True)
 xY += ["# Top"]
 xY += ["|star|updated_at|name|url|des|"]
 xY += ["|---|---|---|---|---|"]
