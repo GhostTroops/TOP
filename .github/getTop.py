@@ -2,7 +2,8 @@
 # -*- coding:utf-8 -*-
 import requests,json
 
-n = 2024
+today = datetime.date.today()
+n = today.year
 xY = ["# Table of Contents"]
 xOut = []
 
