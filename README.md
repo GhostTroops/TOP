@@ -22,18 +22,18 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |489|2025-03-27T08:55:16Z|CVE-2018-20250|https://github.com/WyAtu/CVE-2018-20250|exp for https://research.checkpoint.com/extracting-code-execution-from-winrar|
 |196|2025-04-18T15:11:46Z|IngressNightmare-PoC|https://github.com/hakaioffsec/IngressNightmare-PoC|This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974).|
 |175|2025-04-17T00:19:16Z|CVE-2025-21298|https://github.com/ynwarcs/CVE-2025-21298|Proof of concept & details for CVE-2025-21298|
-|175|2025-04-20T15:27:24Z|CVE-2025-30208-EXP|https://github.com/ThumpBo/CVE-2025-30208-EXP|CVE-2025-30208-EXP|
-|251|2025-04-21T00:23:06Z|CVE-2025-24071_PoC|https://github.com/0x6rss/CVE-2025-24071_PoC|CVE-2025-24071: NTLM Hash Leak via RAR/ZIP Extraction and .library-ms File|
+|176|2025-04-21T21:34:45Z|CVE-2025-30208-EXP|https://github.com/ThumpBo/CVE-2025-30208-EXP|CVE-2025-30208-EXP|
+|254|2025-04-21T22:29:08Z|CVE-2025-24071_PoC|https://github.com/0x6rss/CVE-2025-24071_PoC|CVE-2025-24071: NTLM Hash Leak via RAR/ZIP Extraction and .library-ms File|
 |61|2024-08-12T19:53:29Z|CVE_2019_2025_EXP|https://github.com/jltxgcy/CVE_2019_2025_EXP||
 |184|2025-04-18T00:45:26Z|CVE-2025-21333-POC|https://github.com/MrAle98/CVE-2025-21333-POC|POC exploit for CVE-2025-21333 heap-based buffer overflow. It leverages WNF state data and I/O ring IOP_MC_BUFFER_ENTRY|
 |108|2025-04-18T19:55:07Z|POC-CVE-2025-24813|https://github.com/absholi7ly/POC-CVE-2025-24813|his repository contains an automated Proof of Concept (PoC) script for exploiting **CVE-2025-24813**, a Remote Code Execution (RCE) vulnerability in Apache Tomcat. The vulnerability allows an attacker to upload a malicious serialized payload to the server, leading to arbitrary code execution via deserialization when specific conditions are met.|
 |70|2025-04-13T20:10:46Z|CVE-2025-29927|https://github.com/aydinnyunus/CVE-2025-29927|CVE-2025-29927 Proof of Concept|
 |129|2025-04-16T17:10:10Z|7-Zip-CVE-2025-0411-POC|https://github.com/dhmosfunk/7-Zip-CVE-2025-0411-POC|This repository contains POC scenarios as part of CVE-2025-0411 MotW bypass.|
-|127|2025-04-05T19:56:36Z|CVE-2025-26125|https://github.com/ZeroMemoryEx/CVE-2025-26125|(0day) Local Privilege Escalation in IObit Malware Fighter|
+|126|2025-04-21T17:32:10Z|CVE-2025-26125|https://github.com/ZeroMemoryEx/CVE-2025-26125|(0day) Local Privilege Escalation in IObit Malware Fighter|
 |79|2025-04-13T07:58:22Z|CVE-2025-24813-PoC|https://github.com/iSee857/CVE-2025-24813-PoC|Apache Tomcat 远程代码执行漏洞批量检测脚本(CVE-2025-24813)|
 |75|2025-04-18T10:17:13Z|CVE-2025-21420-PoC|https://github.com/Network-Sec/CVE-2025-21420-PoC|We found a way to DLL sideload with cleanmgr.exe|
-|54|2025-04-20T04:28:02Z|CVE-2025-22457|https://github.com/sfewer-r7/CVE-2025-22457|PoC for CVE-2025-22457|
-|53|2025-04-21T00:47:07Z|CVE-2025-32433|https://github.com/ProDefense/CVE-2025-32433|CVE-2025-32433 https://github.com/erlang/otp/security/advisories/GHSA-37cp-fgq5-7wc2|
+|60|2025-04-21T23:57:28Z|CVE-2025-32433|https://github.com/ProDefense/CVE-2025-32433|CVE-2025-32433 https://github.com/erlang/otp/security/advisories/GHSA-37cp-fgq5-7wc2|
+|55|2025-04-21T16:42:10Z|CVE-2025-22457|https://github.com/sfewer-r7/CVE-2025-22457|PoC for CVE-2025-22457|
 |86|2025-04-12T03:48:52Z|IngressNightmare-POCs|https://github.com/sandumjacob/IngressNightmare-POCs|Worlds First Public POC for CVE-2025-1974 lol|
 |25|2021-05-29T18:38:32Z|CVE-2018-20250|https://github.com/QAX-A-Team/CVE-2018-20250|010 Editor template for ACE archive format & CVE-2018-2025[0-3]|
 |36|2025-03-31T06:05:20Z|CVE-2025-0282|https://github.com/sfewer-r7/CVE-2025-0282|PoC for CVE-2025-0282: A remote unauthenticated stack based buffer overflow affecting Ivanti Connect Secure, Ivanti Policy Secure, and Ivanti Neurons for ZTA gateways|
@@ -53,9 +53,9 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
 |2357|2025-04-19T08:18:51Z|CVE-2024-1086|https://github.com/Notselwyn/CVE-2024-1086|Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.|
-|660|2025-04-17T02:05:51Z|CVE-2024-38063|https://github.com/ynwarcs/CVE-2024-38063|poc for CVE-2024-38063 (RCE in tcpip.sys)|
+|661|2025-04-21T10:47:41Z|CVE-2024-38063|https://github.com/ynwarcs/CVE-2024-38063|poc for CVE-2024-38063 (RCE in tcpip.sys)|
 |476|2025-04-19T14:52:06Z|cve-2024-6387-poc|https://github.com/zgzhang/cve-2024-6387-poc|a signal handler race condition in OpenSSH's server (sshd)|
-|488|2025-04-17T00:19:58Z|CVE-2024-49113|https://github.com/SafeBreach-Labs/CVE-2024-49113|LdapNightmare is a PoC tool that tests a vulnerable Windows Server against CVE-2024-49113|
+|489|2025-04-21T10:29:48Z|CVE-2024-49113|https://github.com/SafeBreach-Labs/CVE-2024-49113|LdapNightmare is a PoC tool that tests a vulnerable Windows Server against CVE-2024-49113|
 |528|2025-04-16T07:12:59Z|git_rce|https://github.com/amalmurali47/git_rce|Exploit PoC for CVE-2024-32002|
 |481|2025-04-19T14:52:03Z|CVE-2024-6387_Check|https://github.com/xaitax/CVE-2024-6387_Check|CVE-2024-6387_Check is a lightweight, efficient tool designed to identify servers running vulnerable versions of OpenSSH|
 |377|2025-04-16T21:04:56Z|cve-2024-6387-poc|https://github.com/acrono/cve-2024-6387-poc|32-bit PoC for CVE-2024-6387 — mirror of the original 7etsuo/cve-2024-6387-poc|
@@ -65,10 +65,10 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |274|2025-04-18T09:45:48Z|CVE-2024-4577|https://github.com/watchtowrlabs/CVE-2024-4577|PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC|
 |292|2025-04-19T03:24:30Z|CVE-2024-21338|https://github.com/hakaioffsec/CVE-2024-21338|Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled.|
 |278|2025-04-11T10:37:23Z|CVE-2024-35250|https://github.com/varwara/CVE-2024-35250|PoC for the Untrusted Pointer Dereference in the ks.sys driver|
-|3512|2025-04-18T00:11:38Z|xzbot|https://github.com/amlweems/xzbot|notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)|
+|3511|2025-04-21T05:40:35Z|xzbot|https://github.com/amlweems/xzbot|notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)|
 |198|2025-04-07T15:29:43Z|CVE-2024-23897|https://github.com/h4x0r-dz/CVE-2024-23897|CVE-2024-23897|
 |249|2025-04-20T02:23:51Z|CVE-2024-30088|https://github.com/tykawaii98/CVE-2024-30088||
-|725|2025-04-17T16:48:44Z|CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability|https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability|Microsoft-Outlook-Remote-Code-Execution-Vulnerability|
+|726|2025-04-21T03:37:22Z|CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability|https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability|Microsoft-Outlook-Remote-Code-Execution-Vulnerability|
 |9|2025-03-30T21:14:15Z|CVE-2024-38077-POC|https://github.com/SecStarBot/CVE-2024-38077-POC||
 |248|2025-04-04T00:57:03Z|CVE-2024-49138-POC|https://github.com/MrAle98/CVE-2024-49138-POC|POC exploit for CVE-2024-49138|
 |159|2025-04-18T09:07:24Z|CVE-2024-4367-PoC|https://github.com/LOURC0D3/CVE-2024-4367-PoC|CVE-2024-4367 & CVE-2024-34342 Proof of Concept|
@@ -86,7 +86,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
 |420|2025-02-13T04:40:26Z|qq-tim-elevation|https://github.com/vi3t1/qq-tim-elevation|CVE-2023-34312|
-|1456|2025-04-21T01:00:50Z|cvelist|https://github.com/CVEProject/cvelist|Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023|
+|1455|2025-04-22T01:00:46Z|cvelist|https://github.com/CVEProject/cvelist|Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023|
 |788|2025-04-05T06:19:01Z|CVE-2023-38831-winrar-exploit|https://github.com/b1tg/CVE-2023-38831-winrar-exploit|CVE-2023-38831 winrar exploit generator|
 |486|2025-03-27T03:59:53Z|Windows_LPE_AFD_CVE-2023-21768|https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768|LPE exploit for CVE-2023-21768|
 |371|2025-04-18T15:44:51Z|CVE-2023-32233|https://github.com/Liuk3r/CVE-2023-32233|CVE-2023-32233: Linux内核中的安全漏洞|
@@ -103,7 +103,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |344|2025-04-04T08:37:17Z|CVE-2023-23397-POC-Powershell|https://github.com/api0cradle/CVE-2023-23397-POC-Powershell||
 |140|2025-04-17T11:39:26Z|CVE-2023-34362|https://github.com/horizon3ai/CVE-2023-34362|MOVEit CVE-2023-34362|
 |223|2025-04-07T15:29:33Z|CVE-2023-3519|https://github.com/BishopFox/CVE-2023-3519|RCE exploit for CVE-2023-3519|
-|231|2025-03-26T16:30:20Z|CVE-2023-20887|https://github.com/sinsinology/CVE-2023-20887|VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)|
+|232|2025-04-21T10:47:13Z|CVE-2023-20887|https://github.com/sinsinology/CVE-2023-20887|VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)|
 |239|2025-03-28T05:48:25Z|CVE-2023-7028|https://github.com/Vozec/CVE-2023-7028|This repository presents a proof-of-concept of CVE-2023-7028|
 |178|2025-04-14T05:46:00Z|CVE-2023-28252|https://github.com/fortra/CVE-2023-28252||
 |234|2025-02-22T13:50:25Z|Weblogic-CVE-2023-21839|https://github.com/DXask88MA/Weblogic-CVE-2023-21839||
@@ -122,7 +122,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |460|2025-04-17T05:07:11Z|CVE-2022-21882|https://github.com/KaLendsi/CVE-2022-21882|win32k LPE |
 |1099|2025-04-20T19:41:29Z|CVE-2022-0847-DirtyPipe-Exploit|https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit|A root exploit for CVE-2022-0847 (Dirty Pipe)|
 |686|2025-04-17T05:22:07Z|CVE-2022-29072|https://github.com/kagancapar/CVE-2022-29072|7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area.|
-|368|2025-02-25T21:33:20Z|CVE-2022-0185|https://github.com/Crusaders-of-Rust/CVE-2022-0185|CVE-2022-0185|
+|369|2025-04-21T10:00:00Z|CVE-2022-0185|https://github.com/Crusaders-of-Rust/CVE-2022-0185|CVE-2022-0185|
 |566|2025-04-12T11:08:18Z|CVE-2022-23222|https://github.com/tr3ee/CVE-2022-23222|CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation|
 |497|2025-03-30T19:28:57Z|CVE-2022-0995|https://github.com/Bonfee/CVE-2022-0995|CVE-2022-0995 exploit|
 |530|2025-01-19T17:42:53Z|OpenSSL-2022|https://github.com/NCSC-NL/OpenSSL-2022|Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3|
@@ -165,7 +165,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |745|2025-04-17T00:32:23Z|CVE-2021-3156|https://github.com/worawit/CVE-2021-3156|Sudo Baron Samedit Exploit|
 |823|2025-04-10T07:24:31Z|CVE-2021-31166|https://github.com/0vercl0k/CVE-2021-31166|Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.|
 |857|2025-03-20T06:12:13Z|CVE-2021-44228-Scanner|https://github.com/logpresso/CVE-2021-44228-Scanner|Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228|
-|860|2025-04-20T08:41:10Z|noPac|https://github.com/Ridter/noPac|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
+|861|2025-04-21T05:56:00Z|noPac|https://github.com/Ridter/noPac|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
 |1825|2025-04-17T05:07:11Z|log4j-shell-poc|https://github.com/kozmer/log4j-shell-poc|A Proof-Of-Concept for the CVE-2021-44228 vulnerability. |
 |418|2025-04-02T07:06:22Z|CVE-2021-3493|https://github.com/briskets/CVE-2021-3493|Ubuntu OverlayFS Local Privesc|
 |333|2025-03-18T15:11:20Z|CVE-2021-1675-LPE|https://github.com/hlldz/CVE-2021-1675-LPE|Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527|
@@ -176,7 +176,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |174|2025-01-25T14:14:36Z|ProxyVulns|https://github.com/hosch3n/ProxyVulns|[ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains.|
 |272|2025-04-06T14:53:17Z|CVE-2021-22205|https://github.com/Al1ex/CVE-2021-22205|CVE-2021-22205& GitLab CE/EE RCE|
 |147|2024-12-04T10:07:59Z|CVE-2021-41773_CVE-2021-42013|https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013|CVE-2021-41773 CVE-2021-42013漏洞批量检测工具|
-|3414|2025-04-18T15:44:41Z|log4j-scan|https://github.com/fullhunt/log4j-scan|A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |
+|3415|2025-04-21T09:18:31Z|log4j-scan|https://github.com/fullhunt/log4j-scan|A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |
 |260|2025-03-19T02:33:13Z|CVE-2021-21972|https://github.com/horizon3ai/CVE-2021-21972|Proof of Concept Exploit for vCenter CVE-2021-21972|
 |266|2025-04-14T18:43:31Z|CVE-2021-36260|https://github.com/Aiminsun/CVE-2021-36260|command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.|
 |358|2025-04-16T08:14:17Z|Grafana-CVE-2021-43798|https://github.com/jas502n/Grafana-CVE-2021-43798|Grafana Unauthorized arbitrary file reading vulnerability|
@@ -191,7 +191,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |1223|2025-04-18T15:44:30Z|CVE-2020-1472|https://github.com/dirkjanm/CVE-2020-1472|PoC for Zerologon - all research credits go to Tom Tervoort of Secura|
 |283|2025-03-18T15:37:55Z|CVE-2020-14882|https://github.com/jas502n/CVE-2020-14882|CVE-2020–14882、CVE-2020–14883|
 |323|2025-04-17T02:20:57Z|cve-2020-0688|https://github.com/Ridter/cve-2020-0688|cve-2020-0688|
-|656|2025-04-19T18:06:20Z|zerologon|https://github.com/risksense/zerologon|Exploit for zerologon cve-2020-1472|
+|657|2025-04-21T13:11:17Z|zerologon|https://github.com/risksense/zerologon|Exploit for zerologon cve-2020-1472|
 |678|2025-04-18T15:44:22Z|SMBGhost|https://github.com/ly4k/SMBGhost|Scanner for CVE-2020-0796 - SMBv3 RCE|
 |373|2025-03-19T11:17:00Z|CVE-2020-5902|https://github.com/jas502n/CVE-2020-5902|CVE-2020-5902 BIG-IP|
 |553|2025-04-12T02:15:11Z|CVE-2020-0796-RCE-POC|https://github.com/jamf/CVE-2020-0796-RCE-POC|CVE-2020-0796 Remote Code Execution POC|
@@ -219,7 +219,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |---|---|---|---|---|
 |4199|2025-04-20T16:39:30Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
 |2038|2025-04-20T02:16:44Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
-|1813|2025-04-17T00:39:25Z|phuip-fpizdam|https://github.com/neex/phuip-fpizdam|Exploit for CVE-2019-11043|
+|1815|2025-04-21T17:08:33Z|phuip-fpizdam|https://github.com/neex/phuip-fpizdam|Exploit for CVE-2019-11043|
 |1183|2025-04-17T00:40:24Z|BlueKeep|https://github.com/Ekultek/BlueKeep|Proof of concept for CVE-2019-0708|
 |493|2025-04-17T02:25:32Z|CVE-2019-0708|https://github.com/n1xbyte/CVE-2019-0708|dump|
 |387|2025-03-28T22:44:02Z|CVE-2019-0708|https://github.com/k8gege/CVE-2019-0708|3389远程桌面代码执行漏洞CVE-2019-0708批量检测工具(Rdpscan Bluekeep Check)|
@@ -231,7 +231,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |363|2025-02-22T18:04:27Z|CVE-2019-11510|https://github.com/projectzeroindia/CVE-2019-11510|Exploit for Arbitrary File Read on Pulse Secure SSL VPN (CVE-2019-11510)|
 |370|2025-02-04T14:15:37Z|CVE-2019-19781|https://github.com/projectzeroindia/CVE-2019-19781|Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]|
 |134|2024-12-17T10:35:30Z|CVE-2019-0604|https://github.com/linhlhq/CVE-2019-0604|CVE-2019-0604|
-|329|2025-04-17T07:53:22Z|CVE-2019-13272|https://github.com/jas502n/CVE-2019-13272|Linux 4.10 < 5.1.17 PTRACE_TRACEME local root|
+|330|2025-04-21T08:10:17Z|CVE-2019-13272|https://github.com/jas502n/CVE-2019-13272|Linux 4.10 < 5.1.17 PTRACE_TRACEME local root|
 |624|2025-04-17T00:39:02Z|CVE-2019-11708|https://github.com/0vercl0k/CVE-2019-11708|Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.|
 |353|2025-04-10T06:46:08Z|CVE-2019-18935|https://github.com/noperator/CVE-2019-18935|RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX.|
 |240|2025-04-11T21:25:57Z|CVE-2019-0841|https://github.com/rogue-kdc/CVE-2019-0841|PoC code for CVE-2019-0841 Privilege Escalation vulnerability|
@@ -245,8 +245,8 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |190|2025-02-25T13:06:08Z|CVE-2019-2725|https://github.com/TopScrew/CVE-2019-2725|CVE-2019-2725命令回显+webshell上传+最新绕过|
 |229|2025-04-04T07:05:35Z|CVE-2019-9810|https://github.com/0vercl0k/CVE-2019-9810|Exploit for CVE-2019-9810 Firefox on Windows 64-bit.|
 |193|2025-01-30T09:21:46Z|CVE-2019-16098|https://github.com/Barakat/CVE-2019-16098|Local privilege escalation PoC exploit for CVE-2019-16098|
-|162|2025-03-27T23:04:55Z|CVE-2019-7609|https://github.com/LandGrey/CVE-2019-7609|exploit CVE-2019-7609(kibana RCE) on right way by python2 scripts|
 |209|2024-08-12T19:46:33Z|CVE-2019-0192|https://github.com/mpgn/CVE-2019-0192|RCE on Apache Solr using deserialization of untrusted data via jmx.serviceUrl|
+|163|2025-04-21T07:23:59Z|CVE-2019-7609|https://github.com/LandGrey/CVE-2019-7609|exploit CVE-2019-7609(kibana RCE) on right way by python2 scripts|
 ## 2018
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
@@ -278,8 +278,8 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |167|2024-09-13T15:40:47Z|CVE-2018-8174-msf|https://github.com/0x09AL/CVE-2018-8174-msf|CVE-2018-8174 - VBScript memory corruption exploit.|
 |59|2024-12-06T22:03:54Z|bluetoothdPoC|https://github.com/rani-i/bluetoothdPoC|CVE-2018-4087 PoC|
 |129|2024-08-12T19:42:04Z|CVE-2018-17182|https://github.com/jas502n/CVE-2018-17182|Linux 内核VMA-UAF 提权漏洞（CVE-2018-17182）,0day|
-|138|2025-03-27T23:04:58Z|CVE-2018-2894|https://github.com/LandGrey/CVE-2018-2894|CVE-2018-2894 WebLogic Unrestricted File Upload Lead To RCE Check Script|
 |265|2025-04-04T20:03:49Z|credssp|https://github.com/preempt/credssp|A code demonstrating CVE-2018-0886|
+|138|2025-03-27T23:04:58Z|CVE-2018-2894|https://github.com/LandGrey/CVE-2018-2894|CVE-2018-2894 WebLogic Unrestricted File Upload Lead To RCE Check Script|
 ## 2017
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
@@ -316,7 +316,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 ## 2016
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|971|2025-03-11T22:12:24Z|CVE-2016-5195|https://github.com/timwr/CVE-2016-5195|CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android|
+|972|2025-04-21T07:59:04Z|CVE-2016-5195|https://github.com/timwr/CVE-2016-5195|CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android|
 |883|2025-04-17T13:55:33Z|dirtycow|https://github.com/firefart/dirtycow|Dirty Cow exploit - CVE-2016-5195|
 |2038|2025-04-20T02:16:44Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |324|2025-04-11T21:25:48Z|CVE-2016-0051|https://github.com/koczkatamas/CVE-2016-0051|EoP (Win7) & BSoD (Win10) PoC for CVE-2016-0051 (MS-016)|
