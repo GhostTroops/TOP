@@ -3,7 +3,39 @@
 <!-- header -->
 # TOP Codeql
 TOP All Codeql for 0day  Things
-## Codeql# Donation
+## Codeql
+|star|name|url|des|
+|---|---|---|---|
+|9106|codeql|https://github.com/github/codeql|CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security|
+|2562|secure-code-game|https://github.com/skills/secure-code-game|A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.|
+|1743|CodeQL|https://github.com/ASTTeam/CodeQL|《深入理解CodeQL》Finding vulnerabilities with CodeQL.|
+|1453|codeql-action|https://github.com/github/codeql-action|Actions for running CodeQL analysis|
+|925|codeql-cli-binaries|https://github.com/github/codeql-cli-binaries|Binaries for the CodeQL CLI|
+|899|CodeqlNote|https://github.com/safe6Sec/CodeqlNote|Codeql学习笔记|
+|842|CodeQLpy|https://github.com/webraybtl/CodeQLpy|CodeQLpy是一款基于CodeQL实现的半自动化代码审计工具，目前仅支持java语言。实现从源码反编译，数据库生成，脆弱性发现的全过程，可以辅助代码审计人员快速定位源码可能存在的漏洞。|
+|797|learning-codeql|https://github.com/SummerSec/learning-codeql|CodeQL Java 全网最全的中文学习资料|
+|563|vscode-codeql-starter|https://github.com/github/vscode-codeql-starter|Starter workspace to use with the CodeQL extension for Visual Studio Code.|
+|494|vscode-codeql|https://github.com/github/vscode-codeql|An extension for Visual Studio Code that adds rich language support for CodeQL|
+|464|codeql-go|https://github.com/github/codeql-go|The CodeQL extractor and libraries for Go.|
+|462|Choccy|https://github.com/l3yx/Choccy|GitHub项目监控 && CodeQL自动扫描   (GitHub project monitoring && CodeQL automatic analysis)|
+|394|CodeqlLearn|https://github.com/Firebasky/CodeqlLearn|记录学习codeql的过程|
+|316|codeql_compile|https://github.com/ice-doom/codeql_compile|自动反编译闭源应用，创建codeql数据库|
+|299|iris|https://github.com/iris-sast/iris|A neurosymbolic framework for vulnerability detection in code|
+|211|codeql|https://github.com/githubsatelliteworkshops/codeql|GitHub Satellite 2020 workshops on finding security vulnerabilities with CodeQL for Java/JavaScript.|
+|198|CodeQL-Community-Packs|https://github.com/GitHubSecurityLab/CodeQL-Community-Packs|Collection of community-driven CodeQL query, library and extension packs|
+|182|codeql-coding-standards|https://github.com/github/codeql-coding-standards|This repository contains CodeQL queries and libraries which support various Coding Standards.|
+|178|CodeQLRule|https://github.com/ice-doom/CodeQLRule|个人使用CodeQL编写的一些规则|
+|161|codeql-zero-to-hero|https://github.com/GitHubSecurityLab/codeql-zero-to-hero|CodeQL zero to hero blog post series challenges|
+|124|codeql-mcp|https://github.com/JordyZomer/codeql-mcp|This project runs a Model Context Protocol (MCP) server that wraps the CodeQL query server. It enables tools like [Cursor](https://cursor.sh/) or AI agents to interact with CodeQL through structured commands.|
+|123|codeql-container|https://github.com/microsoft/codeql-container|Prepackaged and precompiled github codeql container for rapid analysis, deployment and development.|
+|116|introduction-to-codeql|https://github.com/skills/introduction-to-codeql|Enable code scanning and secure your code with CodeQL.|
+|111|codeql.nvim|https://github.com/pwntester/codeql.nvim|CodeQL plugin for Neovim|
+|96|codeql|https://github.com/githubuniverseworkshops/codeql|CodeQL workshops for GitHub Universe|
+|95|ghas-jira-integration|https://github.com/github/ghas-jira-integration|Synchronize GitHub Code Scanning alerts to Jira issues|
+|85|codeql-queries|https://github.com/advanced-security/codeql-queries|[Deprecated] GitHub's Field Team's CodeQL Custom Queries, Suites, and Configurations. See GitHubSecurityLab/CodeQL-Community-Packs instead|
+|46|codeql-action-sync-tool|https://github.com/github/codeql-action-sync-tool|A tool for syncing the CodeQL Action from GitHub.com to GitHub Enterprise Server, including copying the CodeQL bundle.|
+|36|codeql-learninglab-actions|https://github.com/github/codeql-learninglab-actions|Actions and Images for use in Learning Lab courses for CodeQL|
+|31|codeql|https://github.com/cor0ps/codeql|收集规则|# Donation
 | Wechat Pay | AliPay | Paypal | BTC Pay |BCH Pay |
 | --- | --- | --- | --- | --- |
 |<img src=https://raw.githubusercontent.com/hktalent/myhktools/main/md/wc.png>|<img width=166 src=https://raw.githubusercontent.com/hktalent/myhktools/main/md/zfb.png>|[paypal](https://www.paypal.me/pwned2019) **miracletalent@gmail.com**|<img width=166 src=https://raw.githubusercontent.com/hktalent/myhktools/main/md/BTC.png>|<img width=166 src=https://raw.githubusercontent.com/hktalent/myhktools/main/md/BCH.jpg>|
