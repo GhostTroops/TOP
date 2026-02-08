@@ -6,16 +6,16 @@ TOP All Codeql for 0day  Things
 ## Codeql
 |star|name|url|des|
 |---|---|---|---|
-|9215|codeql|https://github.com/github/codeql|CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security|
-|2590|secure-code-game|https://github.com/skills/secure-code-game|A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.|
+|9217|codeql|https://github.com/github/codeql|CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security|
+|2591|secure-code-game|https://github.com/skills/secure-code-game|A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.|
 |1752|CodeQL|https://github.com/ASTTeam/CodeQL|《深入理解CodeQL》Finding vulnerabilities with CodeQL.|
-|1474|codeql-action|https://github.com/github/codeql-action|Actions for running CodeQL analysis|
+|1475|codeql-action|https://github.com/github/codeql-action|Actions for running CodeQL analysis|
 |939|codeql-cli-binaries|https://github.com/github/codeql-cli-binaries|Binaries for the CodeQL CLI|
 |900|CodeqlNote|https://github.com/safe6Sec/CodeqlNote|Codeql学习笔记|
-|846|CodeQLpy|https://github.com/webraybtl/CodeQLpy|CodeQLpy是一款基于CodeQL实现的半自动化代码审计工具，目前仅支持java语言。实现从源码反编译，数据库生成，脆弱性发现的全过程，可以辅助代码审计人员快速定位源码可能存在的漏洞。|
+|847|CodeQLpy|https://github.com/webraybtl/CodeQLpy|CodeQLpy是一款基于CodeQL实现的半自动化代码审计工具，目前仅支持java语言。实现从源码反编译，数据库生成，脆弱性发现的全过程，可以辅助代码审计人员快速定位源码可能存在的漏洞。|
 |799|learning-codeql|https://github.com/SummerSec/learning-codeql|CodeQL Java 全网最全的中文学习资料|
 |569|vscode-codeql-starter|https://github.com/github/vscode-codeql-starter|Starter workspace to use with the CodeQL extension for Visual Studio Code.|
-|504|vscode-codeql|https://github.com/github/vscode-codeql|An extension for Visual Studio Code that adds rich language support for CodeQL|
+|505|vscode-codeql|https://github.com/github/vscode-codeql|An extension for Visual Studio Code that adds rich language support for CodeQL|
 |466|Choccy|https://github.com/l3yx/Choccy|GitHub项目监控 && CodeQL自动扫描   (GitHub project monitoring && CodeQL automatic analysis)|
 |465|codeql-go|https://github.com/github/codeql-go|The CodeQL extractor and libraries for Go.|
 |394|CodeqlLearn|https://github.com/Firebasky/CodeqlLearn|记录学习codeql的过程|
@@ -26,7 +26,7 @@ TOP All Codeql for 0day  Things
 |187|codeql-coding-standards|https://github.com/github/codeql-coding-standards|This repository contains CodeQL queries and libraries which support various Coding Standards.|
 |180|CodeQLRule|https://github.com/ice-doom/CodeQLRule|个人使用CodeQL编写的一些规则|
 |163|codeql-zero-to-hero|https://github.com/GitHubSecurityLab/codeql-zero-to-hero|CodeQL zero to hero blog post series challenges|
-|130|codeql-mcp|https://github.com/JordyZomer/codeql-mcp|This project runs a Model Context Protocol (MCP) server that wraps the CodeQL query server. It enables tools like [Cursor](https://cursor.sh/) or AI agents to interact with CodeQL through structured commands.|
+|131|codeql-mcp|https://github.com/JordyZomer/codeql-mcp|This project runs a Model Context Protocol (MCP) server that wraps the CodeQL query server. It enables tools like [Cursor](https://cursor.sh/) or AI agents to interact with CodeQL through structured commands.|
 |122|codeql-container|https://github.com/microsoft/codeql-container|Prepackaged and precompiled github codeql container for rapid analysis, deployment and development.|
 |121|introduction-to-codeql|https://github.com/skills/introduction-to-codeql|Enable code scanning and secure your code with CodeQL.|
 |111|codeql.nvim|https://github.com/pwntester/codeql.nvim|CodeQL plugin for Neovim|
