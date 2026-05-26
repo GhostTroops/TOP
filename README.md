@@ -19,25 +19,25 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 ## 2026
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|3892|2026-05-24T23:30:51Z|copy-fail-CVE-2026-31431|https://github.com/theori-io/copy-fail-CVE-2026-31431|Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code|
-|803|2026-05-25T01:50:10Z|Nginx-Rift|https://github.com/DepthFirstDisclosures/Nginx-Rift|exploit for CVE-2026-42945|
+|3901|2026-05-26T01:50:11Z|copy-fail-CVE-2026-31431|https://github.com/theori-io/copy-fail-CVE-2026-31431|Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code|
+|811|2026-05-26T01:48:24Z|Nginx-Rift|https://github.com/DepthFirstDisclosures/Nginx-Rift|exploit for CVE-2026-42945|
 |559|2026-05-24T03:29:29Z|cve_2026_31431|https://github.com/rootsecdev/cve_2026_31431|Exploit POC for CVE_2026_31431|
 |156|2026-05-23T00:11:28Z|next-16.2.4-pocs|https://github.com/dwisiswant0/next-16.2.4-pocs|Next.js v16.2.4 Security PoC Collection (CVE-2026-23870, CVE-2026-44575, CVE-2026-44579, CVE-2026-44574, CVE-2026-44578, CVE-2026-44573, CVE-2026-44581, CVE-2026-44580, CVE-2026-44577, CVE-2026-44576, CVE-2026-44582, CVE-2026-44572)|
 |257|2026-05-16T20:20:56Z|CVE-2026-21858|https://github.com/Chocapikk/CVE-2026-21858|n8n Ni8mare - Unauthenticated Arbitrary File Read to RCE Chain (CVSS 10.0)|
 |208|2026-05-11T14:09:37Z|CVE-2026-24061|https://github.com/SafeBreach-Labs/CVE-2026-24061|Exploitation of CVE-2026-24061|
-|68|2026-05-22T11:46:14Z|cve-2026-31431|https://github.com/adysec/cve-2026-31431|CVE-2026-31431: Copy Fail | A minimal exploit for Linux authencesn + AF_ALG + splice() page cache write.|
-|348|2026-05-23T10:55:16Z|copyfail-go|https://github.com/badsectorlabs/copyfail-go|A Go implementation of copyfail (CVE-2026-31431)|
-|158|2026-05-25T02:25:49Z|CVE-2026-40369-EXPLOIT|https://github.com/orinimron123/CVE-2026-40369-EXPLOIT|Full exploit code for CVE-2026-40369 - A Windows kernel arbitrary write vulnerability that allows browser sandbox escape from all browsers render process sandbox|
-|439|2026-05-24T23:41:48Z|cPanelSniper|https://github.com/ynsmroztas/cPanelSniper|CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection|
+|67|2026-05-25T09:59:01Z|cve-2026-31431|https://github.com/adysec/cve-2026-31431|CVE-2026-31431: Copy Fail | A minimal exploit for Linux authencesn + AF_ALG + splice() page cache write.|
+|349|2026-05-25T19:29:35Z|copyfail-go|https://github.com/badsectorlabs/copyfail-go|A Go implementation of copyfail (CVE-2026-31431)|
+|163|2026-05-25T22:10:52Z|CVE-2026-40369-EXPLOIT|https://github.com/orinimron123/CVE-2026-40369-EXPLOIT|Full exploit code for CVE-2026-40369 - A Windows kernel arbitrary write vulnerability that allows browser sandbox escape from all browsers render process sandbox|
+|443|2026-05-26T00:52:59Z|cPanelSniper|https://github.com/ynsmroztas/cPanelSniper|CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection|
 |124|2026-05-21T00:55:41Z|CVE-2026-20817|https://github.com/oxfemale/CVE-2026-20817|Windows Error Reporting ALPC Elevation of Privilege (CVE-2026-20817) - Proof-of-Concept exploit demonstrating local privilege escalation via WER service. |
 |104|2026-05-23T08:54:35Z|CVE-2026-31431-Advanced-Exploit|https://github.com/Sndav/CVE-2026-31431-Advanced-Exploit|CVE-2026-31431 纯文件利用|
 |87|2026-05-22T15:04:22Z|CVE-2026-41651|https://github.com/Vozec/CVE-2026-41651||
-|406|2026-05-24T18:40:07Z|copy-fail-c|https://github.com/tgies/copy-fail-c|Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint.|
+|409|2026-05-25T18:33:47Z|copy-fail-c|https://github.com/tgies/copy-fail-c|Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint.|
 |141|2026-05-03T06:45:07Z|CVE-2026-20841-PoC|https://github.com/BTtea/CVE-2026-20841-PoC|PoC|
 |124|2026-05-20T17:00:34Z|CVE-2026-2441-PoC|https://github.com/huseyinstif/CVE-2026-2441-PoC||
-|149|2026-05-24T08:21:03Z|Copy-Fail-CVE-2026-31431-Kubernetes-PoC|https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC|PoC: fully unprivileged container escape to node-level code execution on Kubernetes via CVE-2026-31431 page-cache corruption + shared image layers. Validated on Alibaba Cloud ACK, Amazon EKS and Google GKE.|
+|156|2026-05-25T12:18:29Z|Copy-Fail-CVE-2026-31431-Kubernetes-PoC|https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC|PoC: fully unprivileged container escape to node-level code execution on Kubernetes via CVE-2026-31431 page-cache corruption + shared image layers. Validated on Alibaba Cloud ACK, Amazon EKS and Google GKE.|
+|70|2026-05-25T08:24:11Z|CVE-2026-0073-Android-adbd-authentication-bypass-POC|https://github.com/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC||
 |67|2026-05-24T22:57:33Z|CVE-2026-34486|https://github.com/striga-ai/CVE-2026-34486|EncryptInterceptor fail-open bypass in Apache Tomcat Tribes clustering leading to unauthenticated RCE via Java deserialization.|
-|69|2026-05-21T23:07:40Z|CVE-2026-0073-Android-adbd-authentication-bypass-POC|https://github.com/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC||
 |93|2026-05-18T08:29:51Z|Copy-Fail-Exploit-CVE-2026-31431|https://github.com/painoob/Copy-Fail-Exploit-CVE-2026-31431|Most Linux LPEs need a race window or a kernel-specific offset. Copy Fail is a straight-line logic flaw, it needs neither. The same 732-byte Python script (or .c elf) roots every Linux distribution shipped since 2017.|
 |33|2026-05-21T08:32:36Z|CVE-2026-31431|https://github.com/0xShe/CVE-2026-31431||
 |10|2026-05-15T09:42:03Z|Ashwesker-CVE-2026-21509|https://github.com/kimstars/Ashwesker-CVE-2026-21509|CVE-2026-21509|
@@ -46,39 +46,39 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |66|2026-04-17T19:08:51Z|CVE-2026-24061-POC|https://github.com/JayGLXR/CVE-2026-24061-POC||
 |26|2026-04-09T13:59:05Z|cve-2026-32746|https://github.com/jeffaf/cve-2026-32746|CVE-2026-32746 - GNU InetUtils telnetd LINEMODE SLC Buffer Overflow PoC (pre-auth RCE, CVSS 9.8)|
 |63|2026-05-17T14:36:08Z|poc-cpanel-cve-2026-41940|https://github.com/XsanFlip/poc-cpanel-cve-2026-41940||
-|27|2026-05-16T01:51:50Z|CVE-2026-34159|https://github.com/casp3r0x0/CVE-2026-34159|0 Click RCE exploit for CVE-2026-34159 Lama.cpp RPC server|
 |27|2026-05-21T09:55:27Z|CVE-2026-21508_POC|https://github.com/0xc4r/CVE-2026-21508_POC||
+|27|2026-05-16T01:51:50Z|CVE-2026-34159|https://github.com/casp3r0x0/CVE-2026-34159|0 Click RCE exploit for CVE-2026-34159 Lama.cpp RPC server|
 |32|2026-05-22T12:26:38Z|CVE-2026-35616|https://github.com/Alaatk/CVE-2026-35616|Fortinet FortiClientEMS improper access control|
 ## 2025
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|2444|2026-05-24T21:08:58Z|react2shell-scanner|https://github.com/assetnote/react2shell-scanner|High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)|
-|1408|2026-05-24T01:48:32Z|CVE-2025-55182|https://github.com/msanft/CVE-2025-55182|Explanation and full RCE PoC for CVE-2025-55182|
-|796|2026-05-21T04:17:40Z|CVE-2025-55182-research|https://github.com/ejpir/CVE-2025-55182-research|CVE-2025-55182 POC|
+|2446|2026-05-25T17:19:47Z|react2shell-scanner|https://github.com/assetnote/react2shell-scanner|High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)|
+|1409|2026-05-25T06:26:22Z|CVE-2025-55182|https://github.com/msanft/CVE-2025-55182|Explanation and full RCE PoC for CVE-2025-55182|
+|796|2026-05-25T08:23:36Z|CVE-2025-55182-research|https://github.com/ejpir/CVE-2025-55182-research|CVE-2025-55182 POC|
 |492|2026-05-12T05:06:58Z|CVE-2018-20250|https://github.com/WyAtu/CVE-2018-20250|exp for https://research.checkpoint.com/extracting-code-execution-from-winrar|
-|701|2026-05-24T08:31:33Z|CVE-2025-33073|https://github.com/mverschu/CVE-2025-33073|PoC Exploit for the NTLM reflection SMB flaw.|
+|702|2026-05-25T19:45:13Z|CVE-2025-33073|https://github.com/mverschu/CVE-2025-33073|PoC Exploit for the NTLM reflection SMB flaw.|
 |249|2026-05-18T14:03:20Z|IngressNightmare-PoC|https://github.com/hakaioffsec/IngressNightmare-PoC|This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974).|
 |528|2026-05-15T08:19:04Z|CVE-2025-32463_chwoot|https://github.com/pr0v3rbs/CVE-2025-32463_chwoot|Escalation of Privilege to the root through sudo binary with chroot option. CVE-2025-32463|
 |337|2026-05-23T06:13:42Z|redis_exploit|https://github.com/raminfp/redis_exploit|CVE-2025-49844 (RediShell)|
 |461|2026-05-14T13:47:19Z|CVE-2025-32463|https://github.com/kh4sh3i/CVE-2025-32463|Local Privilege Escalation to Root via Sudo chroot in Linux|
 |270|2026-05-17T06:53:12Z|CVE-2025-48799|https://github.com/Wh04m1001/CVE-2025-48799||
 |312|2026-05-24T04:01:21Z|CVE-2025-53770-Exploit|https://github.com/soltanali0/CVE-2025-53770-Exploit|SharePoint WebPart Injection Exploit Tool|
-|762|2026-05-24T15:00:13Z|BYOVD|https://github.com/BlackSnufkin/BYOVD|BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055,).|
+|764|2026-05-25T11:28:23Z|BYOVD|https://github.com/BlackSnufkin/BYOVD|BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055,).|
 |312|2026-05-22T12:17:13Z|CVE-2025-55182|https://github.com/emredavut/CVE-2025-55182|RSC/Next.js RCE Vulnerability Detector & PoC Chrome Extension – CVE-2025-55182 & CVE-2025-66478|
 |135|2026-05-15T06:41:45Z|Nextjs_RCE_Exploit_Tool|https://github.com/pyroxenites/Nextjs_RCE_Exploit_Tool|Exploit for CVE-2025-55182 & CVE-2025-66478|
-|1046|2026-05-25T02:51:24Z|React2Shell-CVE-2025-55182-original-poc|https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc|Original Proof-of-Concepts for React2Shell CVE-2025-55182|
+|1046|2026-05-25T18:30:33Z|React2Shell-CVE-2025-55182-original-poc|https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc|Original Proof-of-Concepts for React2Shell CVE-2025-55182|
 |161|2026-05-21T03:48:50Z|AirBorne-PoC|https://github.com/ekomsSavior/AirBorne-PoC|poc for CVE-2025-24252 & CVE-2025-24132|
 |402|2026-05-13T16:39:32Z|CVE-2025-24071_PoC|https://github.com/0x6rss/CVE-2025-24071_PoC|CVE-2025-24071: NTLM Hash Leak via RAR/ZIP Extraction and .library-ms File|
 |198|2026-03-30T06:27:36Z|CVE-2025-21298|https://github.com/ynwarcs/CVE-2025-21298|Proof of concept & details for CVE-2025-21298|
-|212|2026-05-12T02:23:11Z|CVE-2025-32023|https://github.com/leesh3288/CVE-2025-32023|PoC & Exploit for CVE-2025-32023 / PlaidCTF 2025 "Zerodeo"|
+|213|2026-05-25T16:26:46Z|CVE-2025-32023|https://github.com/leesh3288/CVE-2025-32023|PoC & Exploit for CVE-2025-32023 / PlaidCTF 2025 "Zerodeo"|
 |198|2026-05-07T15:00:22Z|CVE-2025-30208-EXP|https://github.com/ThumpBo/CVE-2025-30208-EXP|CVE-2025-30208-EXP|
 |198|2026-05-21T22:52:13Z|iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201|https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201|CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by a malicious audio file via iMessage/SMS. Exploitation bypassed Blastdoor, enabled kernel escalation (CVE-2025-31201), and allowed token theft until patched in iOS 18.4.1 (Apr 16, 2025).|
-|423|2026-05-24T05:28:09Z|Next.js-RSC-RCE-Scanner-CVE-2025-66478|https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478|A command-line scanner for batch detection of Next.js application versions and determining if they are affected by CVE-2025-66478 vulnerability.|
-|190|2026-03-25T19:46:42Z|RSC-Detect-CVE-2025-55182|https://github.com/alptexans/RSC-Detect-CVE-2025-55182|RSC Detect CVE 2025 55182|
+|425|2026-05-25T15:08:52Z|Next.js-RSC-RCE-Scanner-CVE-2025-66478|https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478|A command-line scanner for batch detection of Next.js application versions and determining if they are affected by CVE-2025-66478 vulnerability.|
 |386|2026-05-23T14:11:15Z|ColorOS-CVE-2025-10184|https://github.com/yuuouu/ColorOS-CVE-2025-10184|ColorOS短信漏洞，以及用户自救方案|
+|190|2026-03-25T19:46:42Z|RSC-Detect-CVE-2025-55182|https://github.com/alptexans/RSC-Detect-CVE-2025-55182|RSC Detect CVE 2025 55182|
 |276|2026-05-24T21:53:38Z|CVE-2025-55182-advanced-scanner-|https://github.com/zack0x01/CVE-2025-55182-advanced-scanner-||
 |150|2026-04-24T05:23:17Z|CVE-2025-11001|https://github.com/pacbypass/CVE-2025-11001|Exploit for CVE-2025-11001 or CVE-2025-11002|
-|194|2026-05-10T07:17:48Z|POC-CVE-2025-24813|https://github.com/absholi7ly/POC-CVE-2025-24813|his repository contains an automated Proof of Concept (PoC) script for exploiting **CVE-2025-24813**, a Remote Code Execution (RCE) vulnerability in Apache Tomcat. The vulnerability allows an attacker to upload a malicious serialized payload to the server, leading to arbitrary code execution via deserialization when specific conditions are met.|
+|195|2026-05-25T12:25:32Z|POC-CVE-2025-24813|https://github.com/absholi7ly/POC-CVE-2025-24813|his repository contains an automated Proof of Concept (PoC) script for exploiting **CVE-2025-24813**, a Remote Code Execution (RCE) vulnerability in Apache Tomcat. The vulnerability allows an attacker to upload a malicious serialized payload to the server, leading to arbitrary code execution via deserialization when specific conditions are met.|
 |90|2025-10-31T02:13:00Z|IngressNightmare-POCs|https://github.com/sandumjacob/IngressNightmare-POCs|CVE-2025-1974|
 |233|2026-04-30T07:10:37Z|CVE-2025-21333-POC|https://github.com/MrAle98/CVE-2025-21333-POC|POC exploit for CVE-2025-21333 heap-based buffer overflow. It leverages WNF state data and I/O ring IOP_MC_BUFFER_ENTRY|
 |355|2026-05-15T08:01:03Z|o3_finds_cve-2025-37899|https://github.com/SeanHeelan/o3_finds_cve-2025-37899|Artefacts for blog post on finding CVE-2025-37899 with o3|
@@ -90,7 +90,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |494|2026-05-22T06:07:37Z|cve-2024-6387-poc|https://github.com/zgzhang/cve-2024-6387-poc|a signal handler race condition in OpenSSH's server (sshd)|
 |519|2026-05-05T12:41:18Z|CVE-2024-49113|https://github.com/SafeBreach-Labs/CVE-2024-49113|LdapNightmare is a PoC tool that tests a vulnerable Windows Server against CVE-2024-49113|
 |532|2026-05-20T23:12:04Z|git_rce|https://github.com/amalmurali47/git_rce|Exploit PoC for CVE-2024-32002|
-|523|2026-05-05T06:07:50Z|CVE-2024-6387_Check|https://github.com/xaitax/CVE-2024-6387_Check|CVE-2024-6387_Check is a lightweight, efficient tool designed to identify servers running vulnerable versions of OpenSSH|
+|524|2026-05-25T12:48:24Z|CVE-2024-6387_Check|https://github.com/xaitax/CVE-2024-6387_Check|CVE-2024-6387_Check is a lightweight, efficient tool designed to identify servers running vulnerable versions of OpenSSH|
 |226|2026-05-21T10:10:16Z|CVE-2024-38077|https://github.com/qi4L/CVE-2024-38077|RDL的堆溢出导致的RCE|
 |382|2026-04-10T03:38:38Z|cve-2024-6387-poc|https://github.com/acrono/cve-2024-6387-poc|32-bit PoC for CVE-2024-6387 — mirror of the original 7etsuo/cve-2024-6387-poc|
 |332|2026-05-23T10:54:47Z|CVE-2024-0044|https://github.com/0xbinder/CVE-2024-0044|CVE-2024-0044:  a "run-as any app" high-severity vulnerability affecting Android versions 12 and 13|
@@ -119,7 +119,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
 |422|2026-05-18T14:02:15Z|qq-tim-elevation|https://github.com/vi3t1/qq-tim-elevation|CVE-2023-34312|
-|1489|2026-05-23T10:51:17Z|cvelist|https://github.com/CVEProject/cvelist|Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023|
+|1488|2026-05-25T13:22:07Z|cvelist|https://github.com/CVEProject/cvelist|Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023|
 |786|2026-05-23T10:54:30Z|CVE-2023-38831-winrar-exploit|https://github.com/b1tg/CVE-2023-38831-winrar-exploit|CVE-2023-38831 winrar exploit generator|
 |505|2026-05-23T10:54:15Z|Windows_LPE_AFD_CVE-2023-21768|https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768|LPE exploit for CVE-2023-21768|
 |374|2026-05-13T19:49:57Z|CVE-2023-32233|https://github.com/Liuk3r/CVE-2023-32233|CVE-2023-32233: Linux内核中的安全漏洞|
@@ -153,27 +153,27 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |---|---|---|---|---|
 |436|2026-05-23T10:53:09Z|CVE-2022-25636|https://github.com/Bonfee/CVE-2022-25636|CVE-2022-25636|
 |462|2026-05-23T10:52:59Z|CVE-2022-21882|https://github.com/KaLendsi/CVE-2022-21882|win32k LPE |
-|1128|2026-05-23T10:53:09Z|CVE-2022-0847-DirtyPipe-Exploit|https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit|A root exploit for CVE-2022-0847 (Dirty Pipe)|
+|1127|2026-05-25T14:10:22Z|CVE-2022-0847-DirtyPipe-Exploit|https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit|A root exploit for CVE-2022-0847 (Dirty Pipe)|
 |672|2026-05-13T19:49:30Z|CVE-2022-29072|https://github.com/kagancapar/CVE-2022-29072|7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area.|
 |373|2026-05-23T10:52:57Z|CVE-2022-0185|https://github.com/Crusaders-of-Rust/CVE-2022-0185|CVE-2022-0185|
 |500|2026-05-13T19:49:27Z|CVE-2022-0995|https://github.com/Bonfee/CVE-2022-0995|CVE-2022-0995 exploit|
 |577|2026-05-23T10:53:29Z|CVE-2022-23222|https://github.com/tr3ee/CVE-2022-23222|CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation|
-|527|2026-04-05T11:55:14Z|OpenSSL-2022|https://github.com/NCSC-NL/OpenSSL-2022|Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3|
 |223|2026-05-13T19:49:24Z|Spring-Cloud-Gateway-CVE-2022-22947|https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947|CVE-2022-22947|
+|527|2026-04-05T11:55:14Z|OpenSSL-2022|https://github.com/NCSC-NL/OpenSSL-2022|Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3|
 |362|2026-05-13T19:49:18Z|CVE-2022-21907|https://github.com/ZZ-SOCMAP/CVE-2022-21907|HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907|
 |376|2026-05-23T10:53:19Z|CVE-2022-29464|https://github.com/hakivvi/CVE-2022-29464|WSO2 RCE (CVE-2022-29464) exploit and writeup.|
 |720|2026-05-20T07:08:03Z|CVE-2022-0847-DirtyPipe-Exploits|https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits|A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.|
 |354|2026-05-18T02:43:57Z|CVE-2022-40684|https://github.com/horizon3ai/CVE-2022-40684|A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager|
 |488|2026-05-23T10:53:44Z|CVE-2022-2588|https://github.com/Markakd/CVE-2022-2588|exploit for CVE-2022-2588|
-|417|2026-05-05T19:02:01Z|CVE-2022-33679|https://github.com/Bdenneu/CVE-2022-33679|One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html|
 |386|2026-05-23T10:53:57Z|CVE-2022-39197|https://github.com/its-arun/CVE-2022-39197|CobaltStrike <= 4.7.1 RCE|
+|417|2026-05-05T19:02:01Z|CVE-2022-33679|https://github.com/Bdenneu/CVE-2022-33679|One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html|
 |280|2026-05-13T19:49:25Z|CVE-2022-0847|https://github.com/r1is/CVE-2022-0847|CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”|
 |466|2026-05-13T19:49:27Z|CVE-2022-27254|https://github.com/nonamecoder/CVE-2022-27254|PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254)|
 |350|2026-05-23T10:53:44Z|CVE-2022-21894|https://github.com/Wack0/CVE-2022-21894|baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability|
 |324|2026-05-23T10:53:14Z|Spring4Shell-POC|https://github.com/reznok/Spring4Shell-POC|Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit|
 |318|2026-05-23T10:53:54Z|CVE-2022-39197-patch|https://github.com/burpheart/CVE-2022-39197-patch|CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch. |
 |303|2026-05-13T19:49:23Z|CVE-2022-21971|https://github.com/0vercl0k/CVE-2022-21971|PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability"|
-|558|2026-05-25T02:21:09Z|CVE-2022-38694_unlock_bootloader|https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader|This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692|
+|557|2026-05-25T10:58:05Z|CVE-2022-38694_unlock_bootloader|https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader|This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692|
 |284|2026-05-23T10:53:36Z|cve-2022-27255|https://github.com/infobyte/cve-2022-27255||
 |265|2026-04-05T11:55:32Z|CVE-2022-39952|https://github.com/horizon3ai/CVE-2022-39952|POC for CVE-2022-39952|
 |116|2026-05-13T19:49:28Z|CVE-2022-22963|https://github.com/dinosn/CVE-2022-22963|CVE-2022-22963 PoC |
@@ -187,15 +187,15 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |1399|2026-05-23T10:52:46Z|noPac|https://github.com/cube0x0/noPac|CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.|
 |1983|2026-05-23T10:52:03Z|CVE-2021-1675|https://github.com/cube0x0/CVE-2021-1675|C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527|
 |2040|2026-05-23T10:52:59Z|CVE-2021-4034|https://github.com/berdav/CVE-2021-4034|CVE-2021-4034 1day|
-|1735|2026-05-23T21:07:18Z|CVE-2021-40444|https://github.com/lockedbyte/CVE-2021-40444|CVE-2021-40444 PoC|
+|1737|2026-05-26T00:28:02Z|CVE-2021-40444|https://github.com/lockedbyte/CVE-2021-40444|CVE-2021-40444 PoC|
 |1149|2026-05-13T19:49:19Z|CVE-2021-4034|https://github.com/arthepsy/CVE-2021-4034|PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)|
 |1012|2026-05-13T19:48:22Z|CVE-2021-3156|https://github.com/blasty/CVE-2021-3156||
-|1099|2026-05-23T10:52:04Z|CVE-2021-1675|https://github.com/calebstewart/CVE-2021-1675|Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)|
+|1098|2026-05-25T16:12:47Z|CVE-2021-1675|https://github.com/calebstewart/CVE-2021-1675|Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)|
 |501|2026-05-13T19:48:27Z|CVE-2021-21972|https://github.com/NS-Sp4ce/CVE-2021-21972|CVE-2021-21972 Exploit|
-|1057|2026-05-23T10:52:46Z|sam-the-admin|https://github.com/safebuffer/sam-the-admin|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
+|1058|2026-05-25T18:54:42Z|sam-the-admin|https://github.com/safebuffer/sam-the-admin|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
 |800|2026-05-15T06:45:20Z|CVE-2021-3156|https://github.com/worawit/CVE-2021-3156|Sudo Baron Samedit Exploit|
 |822|2026-05-23T10:52:25Z|CVE-2021-40444|https://github.com/klezVirus/CVE-2021-40444|CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit|
-|422|2026-05-21T07:45:29Z|CVE-2021-1732-Exploit|https://github.com/KaLendsi/CVE-2021-1732-Exploit|CVE-2021-1732 Exploit|
+|421|2026-05-25T12:17:05Z|CVE-2021-1732-Exploit|https://github.com/KaLendsi/CVE-2021-1732-Exploit|CVE-2021-1732 Exploit|
 |827|2026-05-13T19:48:40Z|CVE-2021-31166|https://github.com/0vercl0k/CVE-2021-31166|Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.|
 |1006|2026-05-20T11:37:07Z|noPac|https://github.com/Ridter/noPac|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
 |861|2026-05-20T14:03:13Z|CVE-2021-44228-Scanner|https://github.com/logpresso/CVE-2021-44228-Scanner|Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228|
@@ -210,14 +210,14 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |286|2026-05-21T07:56:17Z|CVE-2021-22205|https://github.com/Al1ex/CVE-2021-22205|CVE-2021-22205& GitLab CE/EE RCE|
 |3431|2026-05-23T14:00:04Z|log4j-scan|https://github.com/fullhunt/log4j-scan|A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |
 |270|2026-05-23T10:51:38Z|CVE-2021-21972|https://github.com/horizon3ai/CVE-2021-21972|Proof of Concept Exploit for vCenter CVE-2021-21972|
-|316|2026-05-23T10:52:04Z|CVE-2021-34527|https://github.com/JohnHammond/CVE-2021-34527||
+|316|2026-05-25T05:02:33Z|CVE-2021-34527|https://github.com/JohnHammond/CVE-2021-34527||
 |292|2026-05-23T10:52:36Z|CVE-2021-36260|https://github.com/Aiminsun/CVE-2021-36260|command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.|
-|121|2026-04-03T19:11:22Z|proxyshell|https://github.com/horizon3ai/proxyshell|Proof of Concept for CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207|
 |147|2026-05-23T10:52:31Z|CVE-2021-41773_CVE-2021-42013|https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013|CVE-2021-41773 CVE-2021-42013漏洞批量检测工具|
+|121|2026-04-03T19:11:22Z|proxyshell|https://github.com/horizon3ai/proxyshell|Proof of Concept for CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207|
 ## 2020
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|4279|2026-05-23T10:50:41Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
+|4280|2026-05-25T08:30:51Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
 |1819|2026-05-22T19:47:46Z|CVE-2020-1472|https://github.com/bvcyber/CVE-2020-1472|Test tool for CVE-2020-1472|
 |2068|2026-05-23T18:44:35Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |1354|2026-05-18T06:15:24Z|CVE-2020-0796|https://github.com/danigargu/CVE-2020-0796|CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost|
@@ -226,15 +226,15 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |327|2026-05-13T19:47:19Z|cve-2020-0688|https://github.com/Ridter/cve-2020-0688|cve-2020-0688|
 |688|2026-05-24T14:56:48Z|zerologon|https://github.com/risksense/zerologon|Exploit for zerologon cve-2020-1472|
 |718|2026-05-11T06:53:43Z|SMBGhost|https://github.com/ly4k/SMBGhost|Scanner for CVE-2020-0796 - SMBv3 RCE|
-|351|2026-05-13T19:47:29Z|CVEAC-2020|https://github.com/thesecretclub/CVEAC-2020|EasyAntiCheat Integrity check bypass by mimicking memory changes|
-|374|2025-12-23T08:30:40Z|CVE-2020-5902|https://github.com/jas502n/CVE-2020-5902|CVE-2020-5902 BIG-IP|
+|350|2026-05-25T12:17:01Z|CVEAC-2020|https://github.com/thesecretclub/CVEAC-2020|EasyAntiCheat Integrity check bypass by mimicking memory changes|
 |572|2026-05-23T10:46:19Z|CVE-2020-0796-RCE-POC|https://github.com/jamf/CVE-2020-0796-RCE-POC|CVE-2020-0796 Remote Code Execution POC|
+|374|2025-12-23T08:30:40Z|CVE-2020-5902|https://github.com/jas502n/CVE-2020-5902|CVE-2020-5902 BIG-IP|
 |132|2026-05-13T19:47:20Z|CVE_2020_2546|https://github.com/hktalent/CVE_2020_2546|CVE-2020-2546，CVE-2020-2915 CVE-2020-2801  CVE-2020-2798  CVE-2020-2883 CVE-2020-2884 CVE-2020-2950  WebLogic T3 payload exploit poc python3,|
 |293|2026-05-23T10:50:36Z|CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner|https://github.com/bkfish/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner|Cnvd-2020-10487 / cve-2020-1938, scanner tool|
 |887|2026-05-13T19:47:11Z|CurveBall|https://github.com/ly4k/CurveBall|PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)|
 |225|2026-03-22T02:26:40Z|SAP_RECON|https://github.com/chipik/SAP_RECON|PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability)|
 |337|2026-05-23T10:50:37Z|CVE-2020-2551|https://github.com/Y4er/CVE-2020-2551|Weblogic IIOP CVE-2020-2551|
-|249|2026-04-27T05:19:41Z|BlueGate|https://github.com/ly4k/BlueGate|PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE|
+|248|2026-05-25T12:16:41Z|BlueGate|https://github.com/ly4k/BlueGate|PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE|
 |354|2026-05-13T19:47:20Z|CVE-2020-0688|https://github.com/zcgonvh/CVE-2020-0688|Exploit and detect tools for CVE-2020-0688|
 |720|2026-05-23T10:50:56Z|CVE-2020-0787-EXP-ALL-WINDOWS-VERSION|https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION|Support ALL Windows Version|
 |165|2026-05-06T09:40:05Z|cve-2020-0688|https://github.com/random-robbie/cve-2020-0688|cve-2020-0688|
@@ -243,16 +243,16 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |392|2026-05-23T10:51:10Z|CVE-2020-1472|https://github.com/VoidSec/CVE-2020-1472|Exploit Code for CVE-2020-1472 aka Zerologon|
 |258|2026-05-23T05:05:10Z|CVE-2020-0041|https://github.com/bluefrostsecurity/CVE-2020-0041|Exploits for Android Binder bug CVE-2020-0041|
 |510|2026-05-23T10:52:03Z|CVE-2020-15368|https://github.com/stong/CVE-2020-15368|CVE-2020-15368, aka "How to exploit a vulnerable driver"|
-|335|2026-05-13T19:47:12Z|chainoffools|https://github.com/kudelskisecurity/chainoffools|A PoC for CVE-2020-0601|
 |415|2026-05-24T17:08:20Z|Ghostcat-CNVD-2020-10487|https://github.com/00theway/Ghostcat-CNVD-2020-10487|Ghostcat read file/code execute,CNVD-2020-10487(CVE-2020-1938) |
+|335|2026-05-13T19:47:12Z|chainoffools|https://github.com/kudelskisecurity/chainoffools|A PoC for CVE-2020-0601|
 |336|2026-05-23T10:50:35Z|CVE-2020-0683|https://github.com/padovah4ck/CVE-2020-0683|CVE-2020-0683 - Windows MSI “Installer service” Elevation of Privilege|
 |122|2026-05-17T12:43:08Z|CVE-2020-11651-poc|https://github.com/jasperla/CVE-2020-11651-poc|PoC exploit of CVE-2020-11651 and CVE-2020-11652|
 ## 2019
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
 |2068|2026-05-23T18:44:35Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
-|4279|2026-05-23T10:50:41Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
-|1834|2026-05-18T02:48:40Z|phuip-fpizdam|https://github.com/neex/phuip-fpizdam|Exploit for CVE-2019-11043|
+|4280|2026-05-25T08:30:51Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
+|1835|2026-05-25T12:51:00Z|phuip-fpizdam|https://github.com/neex/phuip-fpizdam|Exploit for CVE-2019-11043|
 |1183|2026-05-20T01:45:12Z|BlueKeep|https://github.com/Ekultek/BlueKeep|Proof of concept for CVE-2019-0708|
 |496|2026-03-30T06:41:29Z|CVE-2019-0708|https://github.com/n1xbyte/CVE-2019-0708|dump|
 |391|2026-05-21T10:20:21Z|CVE-2019-0708|https://github.com/k8gege/CVE-2019-0708|3389远程桌面代码执行漏洞CVE-2019-0708批量检测工具(Rdpscan Bluekeep Check)|
@@ -264,7 +264,7 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |362|2026-05-13T19:46:40Z|CVE-2019-11510|https://github.com/projectzeroindia/CVE-2019-11510|Exploit for Arbitrary File Read on Pulse Secure SSL VPN (CVE-2019-11510)|
 |367|2026-05-18T02:43:53Z|CVE-2019-19781|https://github.com/projectzeroindia/CVE-2019-19781|Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]|
 |332|2026-04-27T15:18:56Z|CVE-2019-13272|https://github.com/jas502n/CVE-2019-13272|Linux 4.10 < 5.1.17 PTRACE_TRACEME local root|
-|624|2026-05-13T19:46:48Z|CVE-2019-11708|https://github.com/0vercl0k/CVE-2019-11708|Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.|
+|625|2026-05-25T12:10:51Z|CVE-2019-11708|https://github.com/0vercl0k/CVE-2019-11708|Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.|
 |133|2025-07-21T10:32:14Z|CVE-2019-0604|https://github.com/linhlhq/CVE-2019-0604|CVE-2019-0604|
 |369|2026-05-13T19:47:04Z|CVE-2019-18935|https://github.com/noperator/CVE-2019-18935|RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX.|
 |316|2026-05-14T02:54:02Z|cve-2019-1003000-jenkins-rce-poc|https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc|Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy), CVE-2019-1003002 (Pipeline: Declarative)|
@@ -304,10 +304,10 @@ TOP All bugbounty pentesting CVE-2022- POC Exp  Things
 |302|2026-02-23T14:29:16Z|struts-pwn_CVE-2018-11776|https://github.com/mazen160/struts-pwn_CVE-2018-11776| An exploit for Apache Struts CVE-2018-11776|
 |172|2025-12-24T02:23:23Z|CVE-2018-3245|https://github.com/pyn3rd/CVE-2018-3245|CVE-2018-3245-PoC|
 |164|2026-05-13T19:48:33Z|cve-2018-8120|https://github.com/bigric3/cve-2018-8120||
-|120|2026-05-13T19:46:07Z|cve-2018-8453-exp|https://github.com/ze0r/cve-2018-8453-exp|cve-2018-8453 exp|
 |140|2026-04-23T15:54:54Z|CVE-2018-7600|https://github.com/pimps/CVE-2018-7600|Exploit for Drupal 7 <= 7.57 CVE-2018-7600|
+|120|2026-05-13T19:46:07Z|cve-2018-8453-exp|https://github.com/ze0r/cve-2018-8453-exp|cve-2018-8453 exp|
 |180|2026-04-16T14:49:50Z|CVE-2018-15982_EXP|https://github.com/Ridter/CVE-2018-15982_EXP|exp of CVE-2018-15982|
-|357|2026-05-24T11:03:31Z|GDRVLoader|https://github.com/zer0condition/GDRVLoader|Unsigned driver loader using CVE-2018-19320|
+|358|2026-05-25T23:17:30Z|GDRVLoader|https://github.com/zer0condition/GDRVLoader|Unsigned driver loader using CVE-2018-19320|
 |168|2026-05-13T19:48:34Z|CVE-2018-8174-msf|https://github.com/0x09AL/CVE-2018-8174-msf|CVE-2018-8174 - VBScript memory corruption exploit.|
 |166|2026-05-23T10:49:11Z|RTF_11882_0802|https://github.com/Ridter/RTF_11882_0802|PoC for CVE-2018-0802 And CVE-2017-11882|
 |268|2026-05-13T19:48:27Z|credssp|https://github.com/preempt/credssp|A code demonstrating CVE-2018-0886|
