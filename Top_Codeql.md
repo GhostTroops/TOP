@@ -6,9 +6,9 @@ TOP All Codeql for 0day  Things
 ## Codeql
 |star|name|url|des|
 |---|---|---|---|
-|9847|codeql|https://github.com/github/codeql|CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security|
-|1783|CodeQL|https://github.com/ASTTeam/CodeQL|《深入理解CodeQL》Finding vulnerabilities with CodeQL.|
-|1584|codeql-action|https://github.com/github/codeql-action|Actions for running CodeQL analysis|
+|9853|codeql|https://github.com/github/codeql|CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security|
+|1784|CodeQL|https://github.com/ASTTeam/CodeQL|《深入理解CodeQL》Finding vulnerabilities with CodeQL.|
+|1586|codeql-action|https://github.com/github/codeql-action|Actions for running CodeQL analysis|
 |988|codeql-cli-binaries|https://github.com/github/codeql-cli-binaries|Binaries for the CodeQL CLI|
 |904|CodeqlNote|https://github.com/safe6Sec/CodeqlNote|Codeql学习笔记|
 |851|CodeQLpy|https://github.com/webraybtl/CodeQLpy|CodeQLpy是一款基于CodeQL实现的半自动化代码审计工具，目前仅支持java语言。实现从源码反编译，数据库生成，脆弱性发现的全过程，可以辅助代码审计人员快速定位源码可能存在的漏洞。|
