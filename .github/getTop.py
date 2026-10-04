@@ -23,7 +23,7 @@ for i in range(0,10):
         log("|star|updated_at|name|url|des|")
         log("|---|---|---|---|---|")
         #a.sort(key=cmpfun,reverse=True)
-        aA += a
+      if a: aA += a
         # a = x1
         for x in a:
             try:
