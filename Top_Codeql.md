@@ -6,7 +6,7 @@ TOP All Codeql for 0day  Things
 ## Codeql
 |star|name|url|des|
 |---|---|---|---|
-|10226|codeql|https://github.com/github/codeql|CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security|
+|10229|codeql|https://github.com/github/codeql|CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security|
 |1793|CodeQL|https://github.com/ASTTeam/CodeQL|《深入理解CodeQL》Finding vulnerabilities with CodeQL.|
 |1660|codeql-action|https://github.com/github/codeql-action|Actions for running CodeQL analysis|
 |1021|codeql-cli-binaries|https://github.com/github/codeql-cli-binaries|Binaries for the CodeQL CLI|
